@@ -1,0 +1,103 @@
+
+* {
+    margin: 200;
+    padding: 5px;
+    box-sizing: border-box;
+}
+.navegação{
+    background-color: #584d34;
+    padding: 10px 0;
+    text-align: center;
+}
+
+.navegação ul {
+    list-style: none;
+    margin: 0;
+    padding: 10;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.navegação ul li {
+    display: inline;
+}
+
+.navegação ul li a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    padding: 8px 15px;
+    border-radius: 8px;
+    transition: background 0.3s;
+}
+
+.navegação ul li a:hover {
+    background-color: #f0d8a3;
+}
+
+.main{
+font-family:Verdana;
+}
+.sidebar img {
+    width: 300px;
+    height: auto;
+    border-radius: 12px;
+    border: 3px solid #662c2c;
+}
+    body{
+    background-color: rgb(245, 228, 190);
+    color: #000000;
+    line-height: 1.0;
+}
+
+/* Cabeçalho */
+.header {
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 5px;
+}
+
+.main1 {
+    flex: 1;
+    border-right: 2px solid #ddd;
+    border-left: 2px solid #ddd;
+    padding-left: 20px;
+    padding-right: 25px;
+}
+
+.main1 h2 {
+    color: #4d2020;
+    margin-bottom: 10px;
+    border-bottom: 2px solid #4d2020;
+    border-left: 2px solid #4d2020 ;
+    padding-bottom: 5px;
+}
+/* Coluna direita */
+.main2 {
+    flex: 1.5;
+}
+
+.main2 h2 {
+    color: #4d2020;
+    margin-bottom: 10px;
+    border-bottom: 2px solid #4d2020;
+    border-left: 2px solid #4d2020 ;
+    padding-bottom: 5px;
+}
+
+ul {
+    list-style-type: disc;
+    padding-left: 50px;
+}
+.conteiner{
+width: 85%;
+    max-width: 1200px;
+    margin: 1px auto;
+    display: flex;
+    background: beige;
+    border-radius: 20px;
+    box-shadow: 0 0 50px rgba(0,0,0,0.1);
+    overflow: hidden;
+}
+

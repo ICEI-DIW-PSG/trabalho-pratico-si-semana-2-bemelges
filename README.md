@@ -3,9 +3,11 @@
 # template-diw-20251-semana-02
 
 ## Informações Gerais
-- Nome: 
-- Matricula:
+- Nome: Bernardo Melges dos Anjos
+- Matricula: 897998
 
 ## Print da tela da página criada (Curriculum Vitae)
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+![Print da tela de visualização do currículo](images/print1.png)
+![Print da tela de visualização do currículo](images/print2.png)
+
