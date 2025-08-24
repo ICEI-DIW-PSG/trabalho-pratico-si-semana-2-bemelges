@@ -8,6 +8,6 @@
 
 ## Print da tela da página criada (Curriculum Vitae)
 
-![Print da tela de visualização do currículo](imagens/print1.png)
-![Print da tela de visualização do currículo](imagens/print2.png)
+![Print da tela de visualização do currículo](public/print1.PNG)
+![Print da tela de visualização do currículo](public/print2.PNG)
 
